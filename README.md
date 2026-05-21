@@ -53,6 +53,14 @@ This repository is configured to work out-of-the-box with GitHub Pages. Simply e
 
 The site uses a responsive, human-centered design aesthetic with fluid atmospheric wave visuals and a cohesive design system built to convey our focus on emotional intelligence and responsible AI.
 
+## Contributing
+
+We welcome contributions to SOHMA AI! To propose changes:
+1. Create a new branch for your changes (e.g., `git checkout -b feature-name`).
+2. Make your edits and ensure local testing passes.
+3. Commit your changes with clear, descriptive commit messages.
+4. Push your branch and open a Pull Request.
+
 ---
 
 © SOHMA AI. Human-centred, transparent, and governed AI infrastructure.
